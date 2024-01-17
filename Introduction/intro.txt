@@ -1,0 +1,7 @@
+CPython: This is the default and most widely used implementation of Python. It is written in C and is the reference implementation.
+
+Jython: Jython is an implementation of Python that runs on the Java platform. It allows Python code to be integrated with Java code seamlessly.
+
+IronPython: IronPython is an implementation of Python that is designed to run on the .NET Framework and Mono. It allows Python code to be integrated with .NET languages.
+
+PyPy: PyPy is an alternative implementation of Python with a focus on speed. It uses a Just-In-Time (JIT) compiler and can provide significant performance improvements for certain types of applications.
