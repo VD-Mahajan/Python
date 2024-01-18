@@ -3,9 +3,6 @@
 a=1.89
 print(int(a))
 
-#int to float
-a=2
-print(float(a))
 
 #bool to int
 a=False
@@ -20,3 +17,15 @@ a=3+4j
 print(type(a))
 #print(int(a))      invalid
 
+#int to float
+a=2
+print(float(a))
+
+#bool to float
+a=False
+print(float(a))    
+
+print(complex(True))           #=====>(1+0j)
+print(complex(False))          #=====> 0j 
+print(bool(""))                #=====> False
+print(bool("f"))               #=====> True
