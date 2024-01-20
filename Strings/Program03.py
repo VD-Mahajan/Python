@@ -1,4 +1,5 @@
 #type 3
+# print(arguments list)
 
 x=10
 y=20
