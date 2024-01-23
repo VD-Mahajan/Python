@@ -1,0 +1,12 @@
+class:
+    class is blueprint for creating object.
+    class have property and methods.
+
+object:
+    logical entity which consumes memory
+
+property:
+    variables
+
+methods:
+    actions,behaviour
