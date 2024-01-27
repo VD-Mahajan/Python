@@ -6,4 +6,4 @@ class Test:
 print(Test.__dict__)
 Test().m1()
 print(Test.__dict__)
-        
+    
