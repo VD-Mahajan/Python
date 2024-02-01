@@ -5,4 +5,4 @@ def outer():
     return inner
 
 new = outer()
-new()
+new()           # new() ===> inner()
