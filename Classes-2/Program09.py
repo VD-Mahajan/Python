@@ -15,9 +15,10 @@ def fun(self, name):
     return object.__new__(self)
 
 
-Child = type('Child', (Parent,), {'__init__': run, '__new__': fun})
+Child = type('Child', (Parent,), {'__init__': run, '__new__': fun, 'show': lambda self: print('In show')})
 
 c = Child('Vishal')
 c.myname()
+c.show()
 print(c)
 
