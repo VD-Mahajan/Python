@@ -1,4 +1,3 @@
-
 class Demo:
     @abstractmethod 
     def fun(self):
