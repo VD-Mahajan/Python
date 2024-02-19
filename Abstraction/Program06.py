@@ -11,6 +11,7 @@ class Memo(Demo):
     def fun(self):
         print('in abstract fun')
 
+
 Demo()
 
 '''
